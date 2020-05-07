@@ -133,6 +133,10 @@ img {
   opacity: 0.7;
 }
 
+.team img {
+  border-radius: 50%;
+}
+
 
 
 
